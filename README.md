@@ -102,6 +102,6 @@ Setting up package (1) ...
 
 ## Philosophy
 
-`tar2deb` is influenced heavily in style and interface from the github.com/google/rpmpack package.
+`tar2deb` is influenced heavily in style and interface from the https://github.com/google/rpmpack package.
 
 
